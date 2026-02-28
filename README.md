@@ -25,4 +25,6 @@ Built using pure frontend technologies and the public PokéAPI.
 
 ---
 
-## 📂 Project Structure
+## Checkout
+
+the project is live at https://pokemon-alpha-steel.vercel.app/
