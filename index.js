@@ -14,6 +14,7 @@ async function fetchData(){
         imgElement.style.display = "block";
     }
     catch(error){
+        alert("please enter a valid name")
         console.error(error);
     }
 
